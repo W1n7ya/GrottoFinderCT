@@ -1,0 +1,7 @@
+{
+  "name": "GrottoFinder",
+  "description": "Highlights fairy grottos in the Crystal Hollows with type detection",
+  "version": "1.2.0",
+  "creator": "You",
+  "entry": "index.js"
+}
